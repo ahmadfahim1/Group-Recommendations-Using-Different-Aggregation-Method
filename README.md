@@ -1,1 +1,1 @@
-# Group-Recommendations-Using-Different-Aggregation-Method-
+# Group-Recommendations-Using-Different-Aggregation-Method
